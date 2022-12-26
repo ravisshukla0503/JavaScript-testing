@@ -1,0 +1,14 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyzeArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "supertest": "^6.3.3"
+  }
+}
